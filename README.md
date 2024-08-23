@@ -1,7 +1,7 @@
 ## Hi there 👋<br>
-I'm Dinesh Poudel, <br>
-I'm currently learning C, Javascript, ReactJs.
-
+- 🙋🏾 I'm Dinesh Poudel, <br>
+- 🌱 I'm currently learning C, Javascript, ReactJs. <br>
+- 📫 How to reach me: dineshp4297501@gmail.com <br>
 
 <!--
 **dinesh13p/dinesh13p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
