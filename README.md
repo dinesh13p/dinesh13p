@@ -3,10 +3,6 @@
 - 🌱 I'm currently learning C, Javascript, ReactJs. <br>
 - 📫 How to reach me: dineshp4297501@gmail.com <br>
 
-## My GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
-
 <!--
 **dinesh13p/dinesh13p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
