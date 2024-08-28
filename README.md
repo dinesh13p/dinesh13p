@@ -1,6 +1,6 @@
 ## Hi there 👋<br>
 - 🙋🏾 I'm Dinesh Poudel, <br>
-- 🌱 I'm currently learning C, Javascript, ReactJs. <br>
+- 🌱 I'm currently learning C, Javascript, ReactJs, Tailwindcss. <br>
 - 🔭 I possess strong proficiency in HTML, CSS, and Bootstrap, with an intermediate level of expertise in C and JavaScript.
 - ⚡ I am currently working to make a portfolio for my domain dinesh2004.com.np <br>
 - 📫 How to reach me: dineshp4297501@gmail.com <br>
