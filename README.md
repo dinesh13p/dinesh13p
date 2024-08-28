@@ -2,8 +2,8 @@
 - 🙋🏾 I'm Dinesh Poudel, <br>
 - 🌱 I'm currently learning C, Javascript, ReactJs. <br>
 - 🔭 I possess strong proficiency in HTML, CSS, and Bootstrap, with an intermediate level of expertise in C and JavaScript.
+- ⚡ I am currently working to make a portfolio for my domain dinesh2004.com.np <br>
 - 📫 How to reach me: dineshp4297501@gmail.com <br>
-- ⚡ I'm Currently working to make a portfolio for my domain dinesh2004.com.np <br>
 
 <!--
 **dinesh13p/dinesh13p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
