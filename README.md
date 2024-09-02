@@ -4,6 +4,12 @@
 - 🔭 I possess strong proficiency in HTML, CSS, and Bootstrap, with an intermediate level of expertise in C, JavaScript and React.
 - 📫 How to reach me: dineshp4297501@gmail.com <br>
 
+![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dineshpoudel&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dineshpoudel&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=dineshpoudel&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dineshpoudel&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Dinesh's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=dineshpoudel&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
 <!--
 **dinesh13p/dinesh13p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
