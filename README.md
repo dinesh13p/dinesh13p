@@ -1,9 +1,10 @@
-<h1 align="center">Hi there👋,</h1>
-<h3 align="center">I'm Dinesh Poudel. A student from Nepal </h3>
-<p align="left">- 🎓 I'm currently studying at Nepathya College affiliated to Tribhuvan University.</p>
-<p align="left">- 🌱 I'm currently learning C, Javascript, React and TailwindCSS.</p>
-<p align="left">- 🔭 I possess strong proficiency in HTML, CSS, and Bootstrap, with an intermediate level of expertise in C, JavaScript and React.</p> <br>
-- 📫 How to reach me: dineshp4297501@gmail.com
+### Hi there👋🏼,
+
+ - 🙋 I'm Dinesh Poudel
+ - 🎓 I'm currently studying at Nepathya College affiliated to Tribhuvan University.
+ - 🌱 I'm currently learning C, Javascript, React and TailwindCSS.
+ - 🔭I posses strong profiency in HTML, CSS, Bootstrap, with an intermediate level of expertise in C, Javascript and React.
+ -  📫 How to reach me: dineshp4297501@gmail.com
 
 <!--
 **dinesh13p/dinesh13p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
