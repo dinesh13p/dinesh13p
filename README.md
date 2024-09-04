@@ -1,6 +1,6 @@
-# Hi there👋
-**🙋 I'm Dinesh Poudel**
-** A Student from Nepal**
+<h1 align="center">Hi there👋,</h1>
+<h2 align="center">I'm Dinesh Poudel</h2>
+<h3 align="center">A student from Nepal</h3>
 - 🎓 I'm currently studying at Nepathya College affiliated to Tribhuvan University.
 - 🌱 I'm currently learning C, Javascript, React and TailwindCSS.
 - 🔭 I possess strong proficiency in HTML, CSS, and Bootstrap, with an intermediate level of expertise in C, JavaScript and React.
