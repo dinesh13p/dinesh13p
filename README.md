@@ -1,14 +1,17 @@
-## Hi there 👋<br>
-- 🙋🏾 I'm Dinesh Poudel, <br>
-- 🌱 I'm currently learning C, Javascript, React, Tailwind CSS. <br>
+# Hi there👋
+**🙋 I'm Dinesh Poudel**
+** A Student from Nepal**
+- 🎓 I'm currently studying at Nepathya College affiliated to Tribhuvan University.
+- 🌱 I'm currently learning C, Javascript, React and TailwindCSS.
 - 🔭 I possess strong proficiency in HTML, CSS, and Bootstrap, with an intermediate level of expertise in C, JavaScript and React.
-- 📫 How to reach me: dineshp4297501@gmail.com <br>
+- 📫 How to reach me: dineshp4297501@gmail.com
 
 <!--
 **dinesh13p/dinesh13p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+- - ✨ My website: [click](your-website-link)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
