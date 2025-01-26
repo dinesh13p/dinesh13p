@@ -1,10 +1,10 @@
 ### Hi there👋🏼,
 
  - 🙋 I'm Dinesh Poudel
- - 🎓 I'm currently studying at Nepathya College affiliated to Tribhuvan University.
- - 🌱 I'm currently learning C, Javascript, React and TailwindCSS.
- - 🔭I posses strong profiency in HTML, CSS, Bootstrap, with an intermediate level of expertise in C, Javascript and React.
- -  📫 How to reach me: dineshp4297501@gmail.com
+ - 🎓 Currently studying at Nepathya College affiliated to Tribhuvan University.
+ - 🌱 Currently learning C, Java, Reactjs Tailwind CSS.
+ - 🔭 I posses strong profiency in HTML, CSS, Bootstrap, with an intermediate level of expertise in C, Javascript and Reactjs.
+ -  📫 To reach me: dineshp4297501@gmail.com
 
 <!--
 **dinesh13p/dinesh13p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
