@@ -9,7 +9,7 @@ I'm passionate about **technology, innovation, and problem-solving**, always eag
 🔹 **Tech Stack & Skills:**  
 - Strong expertise in HTML, CSS, and Bootstrap. Intermediate expertise in Javascript, React JS, Tailwind CSS, and C.
 - I am currently learning C and Java.
-- **Other Interests:** IoT & Robotics  (Executive member of Nepathya IoT and Robotics Union)
+- **Other Interests:** IoT & Robotics.
 
 🔹 **Interests & Goals:**  
 - 🚀 Becoming a **Full-Stack Developer**  
@@ -17,6 +17,7 @@ I'm passionate about **technology, innovation, and problem-solving**, always eag
 - 💡 Passionate about **solving real-world problems** with technology  
 
 🔹 **Achievements:**  
+- 🫧 Made a website of Marvel Studios as project of 1st sem training (HTML, css, Bootstrap)
 - 🏆 **First Runner-up** in a **Robo Car Race** organized by Nepathya IoT & Robotics Union
 - 🔬 Completed first-phase IoT & Robotics training. (Made a **smart dustbin** project)
 
