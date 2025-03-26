@@ -1,5 +1,5 @@
 # **Hello there! 🙋🏻‍♂️**  
-I'm a person who likes to watch Movies, Series and Anime and sleep a lot anytime possible.
+I'm a person who likes to watch Movies & Anime, eat best foods possible, and sleep a lot.
 I'm passionate about **technology, innovation, and problem-solving**, and eager to learn new skills that keep me updated.  
 ### **Aspiring Full-Stack Developer | IoT & Robotics Enthusiast**  
 
