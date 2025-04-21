@@ -19,7 +19,7 @@ I'm passionate about **technology, innovation, and problem-solving**, and eager 
 🔹 **Achievements:**  
 - 🫧 Made a website of Marvel Studios as project of 1st sem training (HTML, css, Bootstrap)
 - 🏆 **First Runner-up** in a **Robo Car Race** organized by Nepathya IoT & Robotics Union
-- 🔬 Completed first-phase IoT & Robotics training. (Made a **smart dustbin** project)
+- 🔬 Completed first-phase IoT & Robotics training. (Made a **smart waste management** project)
   
 
 ## **📫 Connect with Me**  
