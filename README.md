@@ -1,27 +1,23 @@
 # **Hello there! 🙋🏻‍♂️**  
-I'm someone who likes to watch Movies, Anime & Series, eat best foods possible, and sleep a lot.
-I'm passionate about **technology, innovation, and problem-solving**, and eager to learn new skills that keep me updated.  
-### **Aspiring Full-Stack Developer | IoT & Robotics Enthusiast**  
+I'm **Dinesh Poudel**
+### **Student | Aspiring Full-Stack Developer | IoT & Robotics Enthusiast**
 
 
 ## **💡 About Me**  
 
 🔹 **Tech Stack & Skills:**  
-- Strong expertise in HTML, CSS, and Bootstrap. Intermediate expertise in Javascript, React JS, Tailwind CSS, and C.
-- I am currently learning C and Java.
+- **Strong expertise** in HTML, CSS, Bootstrap, React.js, Tailwind CSS.
+- **Intermediate expertise** in C and Java.
+- **Currently pursuing** studies in backend development and system design, with emphasis on Java and Spring Boot.
 - **Other Interests:** AI, IoT & Robotics.
 
 🔹 **Interests & Goals:**  
-- 🚀 Becoming a **Full-Stack Developer**  
 - 🤖 Expanding knowledge in **Programming, IoT, Robotics, and AI** 
-- 💡 Passionate about **solving real-world problems** with technology  
+- 💡 Passionate about **solving real-world problems** with technology
+- 🚶‍♀️⛰️🌄 Traveling in scenic and adventurous areas
 
-🔹 **Achievements:**  
-- 🫧 Made a website of Marvel Studios as project of 1st sem training (HTML, css, Bootstrap)
-- 🏆 **First Runner-up** in a **Robo Car Race** organized by Nepathya IoT & Robotics Union
-- 🔬 Completed first-phase IoT & Robotics training. (Made a **smart waste management** project)
-  
 
 ## **📫 Connect with Me**  
 
 📧 **Email:** dineshp4297501@gmail.com  
+🌐 **Website:** dinesh2004.com.np
