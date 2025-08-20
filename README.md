@@ -14,10 +14,11 @@ I'm **Dinesh Poudel**
 🔹 **Interests & Goals:**  
 - 🤖 Expanding knowledge in **Programming, IoT, Robotics, and AI** 
 - 💡 Passionate about **solving real-world problems** with technology
-- 🚶‍♀️⛰️🌄 Traveling in scenic and adventurous areas
+- 🚶‍♀️⛰️🌄 Traveling in **scenic** and **adventurous** areas
 
 
 ## **📫 Connect with Me**  
 
-📧 **Email:** dineshp4297501@gmail.com  
+📧 **Email-1:** dineshp4297501@gmail.com
+📧 **Email-2:** dineshacc02@gmail.com
 🌐 **Website:** https://www.dinesh2004.com.np
