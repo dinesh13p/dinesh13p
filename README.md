@@ -7,17 +7,12 @@ I'm **Dinesh Poudel**
 🔹 **Tech Stack & Skills:**  
 
 <p> 
-  <img src="https://img.shields.io/badge/Frontend-HTML-orange?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend-CSS-blue?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend-Bootstrap-purple?logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend-React-blue?logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Styling-TailwindCSS-teal?logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Language-C-red?logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Language-Java-brown?logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Languages-C%20/%20Java-red?logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-HTML%20/%20CSS%20/%20Bootstrap-orange?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frameworks-React%20/%20TailwindCSS-blue?logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Backend-Spring%20Boot-green?logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Database-SQL-lightgrey?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Other-IoT%20&%20Robotics-orange?logo=raspberrypi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Other-AI-black?logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Other-IoT%20&%20Robotics-purple?logo=raspberrypi&logoColor=white" />
 </p>
 
 🔹 **Interests & Goals:**  
