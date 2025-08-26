@@ -28,9 +28,11 @@ I'm **Dinesh Poudel**
 🔹 **Interests & Goals:**  
 - 🤖 Expanding knowledge in **Programming, IoT, Robotics, and AI**  
 - 💡 Passionate about **solving real-world problems** with technology  
-- 🚶‍♀️⛰️🌄 Traveling in **scenic** and **adventurous** areas  
+- 🚶‍♀️⛰️🌄 Traveling in **scenic** and **adventurous** areas
 
----
+
+![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinesh13p&show_icons=true&theme=tokyonight)
+
 
 ## **📫 Connect with Me**  
 
