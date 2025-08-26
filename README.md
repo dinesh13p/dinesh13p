@@ -31,7 +31,7 @@ I'm **Dinesh Poudel**
 - 🚶‍♀️⛰️🌄 Traveling in **scenic** and **adventurous** areas
 
 
-![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinesh13p&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh13p&layout=compact&theme=tokyonight)
 
 
 ## **📫 Connect with Me**  
