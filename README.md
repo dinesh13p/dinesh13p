@@ -30,8 +30,8 @@ I'm **Dinesh Poudel**
 - 💡 Passionate about **solving real-world problems** with technology  
 - 🚶‍♀️⛰️🌄 Traveling in **scenic** and **adventurous** areas
 
-
-🔹 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh13p&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&langs_count=15&card_width=500)
+🔹
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh13p&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&langs_count=15&card_width=500)
 
 
 ## **📫 Connect with Me**  
