@@ -18,7 +18,7 @@ I'm **Dinesh Poudel**
   <img src="https://img.shields.io/badge/Backend-PHP%20/%20Spring%20Boot-green?logo=springboot&logoColor=white" />
   
   <!-- Database -->
-  <img src="https://img.shields.io/badge/Database-MySQL%20/%20SQL-lightgrey?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-%20SQL-lightgrey?logo=mysql&logoColor=white" />
   
   <!-- Tools & Others -->
   <img src="https://img.shields.io/badge/Tools-XAMPP%20/%20Git%20/%20GitHub-black?logo=github&logoColor=white" />
