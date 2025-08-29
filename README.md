@@ -30,7 +30,7 @@ I'm **Dinesh Poudel**
 - 💡 Passionate about **solving real-world problems** with technology  
 - 🚶‍♀️⛰️🌄 Traveling in **scenic** and **adventurous** areas
 
-🔹
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh13p&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&langs_count=15&card_width=500)
 
 
@@ -38,4 +38,4 @@ I'm **Dinesh Poudel**
 
 📧 **Email-1:** dineshp4297501@gmail.com  
 📧 **Email-2:** dineshacc02@gmail.com  
-🌐 **Website:** [dinesh2004.com.np](https://www.dinesh2004.com.np)  
+🌐 **Website:** [dinesh-poudel.com.np](https://www.dinesh-poudel.com.np) 
