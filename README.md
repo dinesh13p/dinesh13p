@@ -31,9 +31,6 @@ I'm **Dinesh Poudel**
 - 🚶‍♀️⛰️🌄 Traveling in **scenic** and **adventurous** areas
 
 
-![Top Langs](https://dinesh13p.vercel.app/api/top-langs/?username=dinesh13p&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&langs_count=15&card_width=500)
-
-
 ## **📫 Connect with Me**  
 
 📧 **Email-1:** dineshp4297501@gmail.com  
